@@ -1,0 +1,26 @@
+body {
+    background-color: #d3dee4;
+    width: 750px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2, h4, h1 {
+    color: #376786;
+}
+
+p {
+    text-align: center;
+}
+
+.link:hover {
+    color: #23288f;
+}
+
+h4 {
+    color:#313890
+}
+
